@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ri7nz/zsh-volta/blob/main/zsh-volta.gif?raw=true" alt="ri7nz/zsh-volta" /> 
+</p>
+
 # ZSH Plugin - Volta
 ZSH Plugin to install and load [**Volta: JS Toolchains as Code. ⚡**](https://github.com/volta-cli/volta)
 
